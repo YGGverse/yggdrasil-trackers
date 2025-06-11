@@ -1,5 +1,8 @@
 # BitTorrent trackers for the [Yggdrasil](https://yggdrasil-network.github.io/) network
 
+> [!TIP]
+> Feel free to add a new tracker by [PR](https://github.com/YGGverse/yggdrasil-trackers/pulls)
+
 ## HTTP
 
 ```
